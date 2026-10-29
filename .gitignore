@@ -1,0 +1,20 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.log
+
+# ===== 密钥（切勿提交！）=====
+.env
+
+# ===== 运行时生成的会话数据（含聊天记录）=====
+sessions/
+
+# ===== 编辑器 / 系统 =====
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
